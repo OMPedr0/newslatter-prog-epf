@@ -1,5 +1,5 @@
 import NewsletterCard from '../componentes/NewsletterCard';
-import ethportoImage from '../imgs/ETHPorto.jpeg';
+import ethportoImage from '../imgs/ethporto.jpeg';
 import workshopFirebaseImage from '../imgs/workshopfirebase.jpeg'
 
 
